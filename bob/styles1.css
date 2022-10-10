@@ -1,0 +1,105 @@
+.main {
+    margin-top: 20PX;
+    text-align: center;
+}
+.tar-img {
+    display: block;
+    width: 90px;
+    height: 150px;
+    margin-top: 9px;
+    margin-bottom: 20px;
+    margin-right: auto;
+}
+.name {
+    display: block;
+    width: 600px;
+    line-height: 34px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    padding-left: 60px;
+    padding-right: 40px;
+    border-radius: 36px;
+}
+.pass {
+    display: block;
+    width: 600px;
+    line-height: 34px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    padding-left: 60px;
+    padding-right: 40px;
+    border-radius: 24px;
+}
+.add {
+    display: block;
+    width: 600px;
+    line-height: 34px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    padding-left: 60px;
+    padding-right: 40px;
+    border-radius: 24px;
+}
+.sub-but {
+
+    height: 24px;
+    display: block;
+    width: 600px;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    padding-left: 60px;
+    padding-right: 40px;
+    border-radius: 24px;
+    border: none;
+    height: 34px;
+    padding-left: auto;
+    font-size: 14px;
+
+}
+.gee-img {
+       display: block;
+       width: 450px;
+       height: 100px;
+       margin-right: auto;
+       margin-left: auto;
+       margin-top: 20px;
+       margin-bottom: 8px;
+       border-radius: 24px;
+}
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+.Gee-btn {
+       margin-left: 4px;
+       margin-right: 4px;
+       margin-top: 30px;
+       background: blue;
+       border: none;
+       padding-top: 8px;
+       padding-bottom: 8px;
+       padding-left: 16px;
+       padding-right: 16px;
+       border-radius: 4px;
+       font-size: 14px;
+}
+.Haw-btn {
+       margin-left: 4px;
+       margin-right: 4px;
+       margin-top: 30px;
+       background: red;
+       border: none;
+       padding-top: 8px;
+       padding-bottom: 8px;
+       padding-left: 16px;
+       padding-right: 16px;
+       border-radius: 4px;
+       font-size: 14px;
+}
+.rate-btn {
+       width: 150px;
+       height: 10px;
+       background-color: gray;
+       padding-bottom: 10px;
+       border-radius: 24px;
+}
